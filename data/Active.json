@@ -5,8 +5,14 @@
     "creators": ["Dev8H24"],
     "verifier": "Dev8H24",
     "verification": "",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "password": "free to copy",
     "records": [
+        {
+            "user": "BodenTM",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
