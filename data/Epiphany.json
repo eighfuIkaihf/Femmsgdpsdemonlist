@@ -1,0 +1,18 @@
+{
+    "id": 127,
+    "name": "Epiphany",
+    "author": "Nekotin",
+    "creators": ["Nekotin"],
+    "verifier": "Nekotin",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "EK",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
