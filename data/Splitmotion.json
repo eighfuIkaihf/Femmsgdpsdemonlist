@@ -1,1 +1,18 @@
-
+{
+    "id": 148,
+    "name": "Splitmotion",
+    "author": "Tempert",
+    "creators": ["Tempert"],
+    "verifier": "Tempert",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "EK",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
