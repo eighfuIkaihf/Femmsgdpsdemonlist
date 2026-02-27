@@ -9,16 +9,16 @@
     "password": "free to copy",
     "records": [
          {
-            "user": "EK",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "BodenTM",
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "EK",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
