@@ -2,7 +2,7 @@
     "id": 257,
     "name": "tartar sauce",
     "author": "Riot",
-    "creators": "Riot",
+    "creators": ["Riot"],
     "verifier": "Riot",
     "verification": "",
     "percentToQualify": 100,
