@@ -8,5 +8,11 @@
     "percentToQualify": 68,
     "password": "free to copy",
     "records": [
+        {
+            "user": "lunikay",
+            "link": "https://cdn.discordapp.com/attachments/1446901997759496368/1477589895164989567/yay-1.mp4?ex=69a55053&is=69a3fed3&hm=c296770fff6e6c1aafccdc1870147872bd9c05106e45327640a1625993892730&",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
